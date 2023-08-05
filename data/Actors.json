@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"PlayerFutaLucha","characterIndex":0,"characterName":"PlayerFuta","classId":1,"equips":[2,0,0,0,0],"faceIndex":0,"faceName":"PlayersFuta","traits":[],"initialLevel":1,"maxLevel":99,"name":"Player","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"PlayerFutaLucha","characterIndex":0,"characterName":"viejita","classId":2,"equips":[43,0,0,2,0],"faceIndex":0,"faceName":"viejita","traits":[],"initialLevel":1,"maxLevel":99,"name":"Milk","nickname":"","note":"","profile":""}
+]
