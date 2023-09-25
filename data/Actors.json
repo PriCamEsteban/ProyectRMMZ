@@ -1,5 +1,10 @@
 [
 null,
-{"id":1,"battlerName":"PlayerFutaLucha","characterIndex":0,"characterName":"PlayerFuta","classId":1,"equips":[2,0,0,0,0],"faceIndex":0,"faceName":"PlayersFuta","traits":[],"initialLevel":1,"maxLevel":99,"name":"Player","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"PlayerFutaLucha","characterIndex":0,"characterName":"viejita","classId":2,"equips":[43,0,0,2,0],"faceIndex":0,"faceName":"viejita","traits":[],"initialLevel":1,"maxLevel":99,"name":"Milk","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"player","classId":1,"equips":[5,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Player","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"chamana","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Chamana","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"gerrera","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Guerrera","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"Artesana","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Artezana","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"NiñaChamana","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Niña de Chamana","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"constructora","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Constructora","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":2,"characterName":"babies_by_ptimiya","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Bebe de Constructora","nickname":"","note":"","profile":""}
 ]
